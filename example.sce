@@ -1,5 +1,5 @@
-clear
-clc
+clear;
+clc;
 
 //get the path of this file
 dir_utama = get_absolute_file_path("example.sce");
